@@ -9,10 +9,11 @@ harbour support base62 encode and decode
 - `HB_BASE62ENCODE( <cBinary> ) → <cBase62>`
 - `HB_BASE62DECODE( <cBase62> ) → <cBinary>`
 
+## 限制
+只支援 3844 bytes 以內的字串
+
 ## 編譯方式
 
 ```bash
 hbmk2 base62.hbp
 
-## 限制
-只支援 3844 bytes 以內的字串
