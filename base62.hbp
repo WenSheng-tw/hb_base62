@@ -1,0 +1,4 @@
+name=base62
+type=library
+output=base62
+src=base62.c
