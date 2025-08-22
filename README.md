@@ -13,3 +13,6 @@ harbour support base62 encode and decode
 
 ```bash
 hbmk2 base62.hbp
+
+## 限制
+只支援 3844 bytes 以內的字串
